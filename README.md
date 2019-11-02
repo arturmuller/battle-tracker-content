@@ -4,7 +4,7 @@ This repo contains content translations for the [Warcry Unofficial Battle Tracke
 
 Several people have asked for and/or offered help with translating the app into their language — now is your chance!
 
-It is not necessary to translate everything at once. I am really hoping we can get this thing together as a community. Don't feel like you need to take on a huge task a go through everything. Every translation helps, even if it is just a single card!
+It is not necessary to translate everything at once. I am really hoping we can get this thing together as a community. Don't feel like you need to take on a huge task and go through everything. Every translation helps, even if it is just a single card!
 
 :sparkles: **All contributors will be properly credited in the app!**
 
@@ -62,7 +62,7 @@ translated: true
 Empezando por el jugador que tiene iniciativa, los jugadores despliegan los grupos de batalla marcados con RND{ROUND}.
 ```
 
-Note that the front-matter property keys (eg. `section`, `title`, `ref`), as well as template variables (eg. `{ROUND}`) have remained unchaged and the `translate` variable has been flipped to `true`. [See this commit](https://github.com/arturmuller/battle-tracker-content/commit/49ffaeabf0fefce24b164649cb8fd08db750265f) for a colourful visualization of the changes.
+Note that the front-matter property keys (eg. `section`, `title`, `ref`), as well as template variables (eg. `{ROUND}`) have remained unchaged and the `translated` variable has been flipped to `true`. [See this commit](https://github.com/arturmuller/battle-tracker-content/commit/49ffaeabf0fefce24b164649cb8fd08db750265f) for a colourful visualization of the changes.
 
 Everything else has been translated, yay.
 
@@ -70,9 +70,9 @@ Now just save, propose the change, and create a pull request (PR). If you're edi
 
 ## Progress
 
-I recommend starting with steps for battles that people use the most: Campaign Battle, Open Battle, Pitched Battle and Exhibition Battle. The good news is that these share many steps. The below is a complete list of steps that these four battle types are composed of. Each cell links to the correct piece of content here on GitHub, so you can just click and start editing.
+I recommend starting with steps for battles that people use the most: Campaign Battle, Open Battle, Pitched Battle, and Exhibition Battle. The good news is that these share many steps. The below is a complete list of steps that these four battle types are composed of. Each cell links to the correct piece of content here on GitHub, so you can just click and start editing.
 
-The steps below are presented in the order in which they appear in the app (taking into account that it's multiple battles in one). It should be fairly easy to follow along with the app. Here are links for each of the four battle types for your convenience: [Campaign Battle](https://tracker.warcryunofficial.com/campaign-battle), [Open Battle](https://tracker.warcryunofficial.com/open-battle), [Pitched Battle](https://tracker.warcryunofficial.com/pitched-battle), and [Exhibition Battle](https://tracker.warcryunofficial.com/exhibition-battle).
+The steps below are presented in the order in which they appear in the app (taking into account that it's multiple battle types here...). It should be fairly easy to follow along with the app. Here are links for each of the four battle types for your convenience: [Campaign Battle](https://tracker.warcryunofficial.com/campaign-battle), [Open Battle](https://tracker.warcryunofficial.com/open-battle), [Pitched Battle](https://tracker.warcryunofficial.com/pitched-battle), and [Exhibition Battle](https://tracker.warcryunofficial.com/exhibition-battle).
 
 ### Campaign Battle
 
@@ -108,8 +108,6 @@ The steps below are presented in the order in which they appear in the app (taki
 
 ## Credits
 
-:sparkles: **All contributors will be properly credited in the app!**
-
 ### English
 
 - [@artmllr](https://www.reddit.com/user/artmllr)
@@ -119,5 +117,9 @@ The steps below are presented in the order in which they appear in the app (taki
 - [@bararito](https://github.com/Bararito)
 
 ### French
+
+_(No one yet!)_
+
+### German
 
 _(No one yet!)_
