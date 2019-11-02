@@ -4,7 +4,7 @@ This repo contains content translations for the [Warcry Unofficial Battle Tracke
 
 Several people have asked for and/or offered help with translating the app into their language — now is your chance!
 
-It is not necessary to translate everything. I am really hoping we can get this thing together as a community so — even one translated card helps. Don't feel like you need to take on a huge task!
+It is not necessary to translate everything at once. I am really hoping we can get this thing together as a community. Don't feel like you need to take on a huge task a go through everything. Every translation helps, even if it is just a single card!
 
 :sparkles: **All contributors will be properly credited in the app!**
 
