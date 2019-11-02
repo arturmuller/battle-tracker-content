@@ -6,6 +6,8 @@ Several people have asked for and/or offered help with translating the app into 
 
 It is not necessary to translate everything. I am really hoping we can get this thing together as a community so — even one translated card helps. Don't feel like you need to take on a huge task!
 
+:sparkles: **All contributors will be properly credited in the app!**
+
 ## Contributing
 
 If you're comfortable with (or willing to learn) the [GitHub forking workflow](https://guides.github.com/activities/forking/), simply make all your desired changes as outlined below and then open a PR.
@@ -19,6 +21,8 @@ Whichever way you choose to go about contributing, making the translations is ea
 Couple of pointers:
 
 - Use the terminology as it is used in the official materials.
+- Use an [imperative](https://en.wikipedia.org/wiki/Imperative_mood) in the card titles (eg. "Deploy Reserves"). The idea is that people who are already a bit familiar with the game can just read the titles as a kind of todo list and they'll know what's up.
+- Use passive voice in the card body (eg. "Players deploy any battle groups marked..."). Given that these are rule explanations, it is beneficial to follow this form so that readers are clear who is the subject of each instruction.
 - Double check that page references match between the step content and the relevant source material in your language.
 - Try to avoid translations that strongly hint at your regional variant of the language.
 - Once you're done with the translation, change the line that reads `translated: false` to `translated: true`.
@@ -102,7 +106,7 @@ The steps below are presented in the order in which they appear in the app (taki
 
 ## Credits
 
-**All contributors will be properly credited in the app!**
+:sparkles: **All contributors will be properly credited in the app!**
 
 ### English
 
