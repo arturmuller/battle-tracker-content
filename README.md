@@ -74,8 +74,6 @@ I recommend starting with steps for battles that people use the most: Campaign B
 
 The steps below are presented in the order in which they appear in the app (taking into account that it's multiple battle types here...). It should be fairly easy to follow along with the app. Here are links for each of the four battle types for your convenience: [Campaign Battle](https://tracker.warcryunofficial.com/campaign-battle), [Open Battle](https://tracker.warcryunofficial.com/open-battle), [Pitched Battle](https://tracker.warcryunofficial.com/pitched-battle), and [Exhibition Battle](https://tracker.warcryunofficial.com/exhibition-battle).
 
-### Campaign Battle
-
 | Step                          | Spanish                                                                            | French                                                                             | German                                                                             |
 | ----------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | muster-warbands-for-narrative | [:grey_exclamation: Not Translated](./content/es/muster-warbands-for-narrative.md) | [:grey_exclamation: Not Translated](./content/fr/muster-warbands-for-narrative.md) | [:grey_exclamation: Not Translated](./content/de/muster-warbands-for-narrative.md) |
