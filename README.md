@@ -19,7 +19,7 @@ Couple of pointers:
 - Try to avoid translations that strongly hint at your regional variant of the language.
 - Once you're done with the translation, change the line that reads `translated: false` to `translated: true`.
 - Do not translate template variables (words that are in all caps and surrounded by curly braces — eg. `{ROUND}`). These change dynamically based on where they player is in the game and need to stay exactly like this.
-- Do not rename front-matter propety keys (the things that start at every line between the two `---` and that end with a color — eg. `title:`, `section:`, etc..), but **do** translate their value (see example below if you're unsure).
+- Do not rename front-matter propety keys (the things that start at every line between the two `---` and that end with a colon — eg. `title:`, `section:`, etc..), but **do** translate their value (see example below if you're unsure).
 - Do not rename file names.
 
 ### Example
@@ -52,11 +52,11 @@ translated: true
 Empezando por el jugador que tiene iniciativa, los jugadores despliegan los grupos de batalla marcados con RND{ROUND}.
 ```
 
-Note that the front-matter property keys (eg. `section`, `title`, `ref`), as well as template variables (eg. `{ROUND}`) have remained unchaged and the `translate` variable has been flipped to `true`.
+Note that the front-matter property keys (eg. `section`, `title`, `ref`), as well as template variables (eg. `{ROUND}`) have remained unchaged and the `translate` variable has been flipped to `true`. [See this commit](https://github.com/arturmuller/battle-tracker-content/commit/49ffaeabf0fefce24b164649cb8fd08db750265f) for a colourful visualization of the changes.
 
-Everything else has been transated, yay.
+Everything else has been translated, yay.
 
-Now just save, propose the change, and create a pull request (PR). Feel free to include any questions or notes in the PR.
+Now just save, propose the change, and create a pull request (PR). If you're using GitHub, just keep clicking the big green buttons until they stop appearing! (But feel free to include any questions/comments in the PR notes if necessary.)
 
 ## Credits
 
