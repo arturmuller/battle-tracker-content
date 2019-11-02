@@ -1,9 +1,9 @@
 ---
-section: Battle Round {ROUND} / Reserves Phase
-title: Deploy Reserves
-subtitle: (if deployment card specifies)
-ref: Reserve Phase (Core Book, p.39)
-translated: false
+section: Ronda de batalla {ROUND} / Fase de reserva
+title: Despliega reservas
+subtitle: (si la carta de despliegue lo especifica)
+ref: Fase de reserva (Libro básico, p.39)
+translated: true
 ---
 
-Starting with the player who has the initiative, players deploy any battle groups marked RND{ROUND}.
+Empezando por el jugador que tiene iniciativa, los jugadores despliegan los grupos de batalla marcados con RND{ROUND}.
