@@ -62,6 +62,8 @@ Now just save, propose the change, and create a pull request (PR). If you're usi
 
 I recommend starting with steps for battles that people use the most: Campaign Battle, Open Battle, Pitched Battle and Exhibition Battle. The good news is that these share many steps. The below is a complete list of steps that these four battle types are composed of. Each cell links to the correct piece of content here on GitHub, so you can easily just click and start editing.
 
+The steps below are presented in the order in which they appear in the app (taking into account that it's multiple battles in one). It should be fairly easy to follow along with the app. Links to each battle types: [Campaign Battle](https://tracker.warcryunofficial.com/campaign-battle), [Open Battle](https://tracker.warcryunofficial.com/open-battle), [Pitched Battle](https://tracker.warcryunofficial.com/pitched-battle) and [Exhibition Battle](https://tracker.warcryunofficial.com/exhibition-battle).
+
 ### Campaign Battle
 
 | Step                          | Spanish                                                                            | French                                                                             |
