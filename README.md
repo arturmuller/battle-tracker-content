@@ -10,9 +10,11 @@ It is not necessary to translate everything at once. I am really hoping we can g
 
 ## Contributing
 
-If you're comfortable with (or willing to learn) the [GitHub forking workflow](https://guides.github.com/activities/forking/), make all your translations locally using the guidelines outlined in the section "Translating" below, and then open a PR.
+If you're comfortable with (or willing to learn) the [GitHub forking workflow](https://guides.github.com/activities/forking/), make all your changes as usual and submit a PR.
 
 Otherwise, you can use GitHub's edit feature to translate files one by one. [A guide is available here](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository).
+
+:warning: Before you jump into translations, **read the "Translating" section below** to avoid any unnecessary confusion.
 
 ## Translating
 
@@ -24,10 +26,10 @@ Couple of pointers:
 - Use an [imperative](https://en.wikipedia.org/wiki/Imperative_mood) in the card titles (eg. "Deploy Reserves"). The idea is that people who are already a bit familiar with the game can just read the titles as a kind of todo list and they'll know what's up.
 - Use passive voice in the card body (eg. "Players deploy any battle groups marked..."). Given that these are rule explanations, it is beneficial to follow this form so that readers are clear who is the subject of each instruction.
 - Double check that page references match between the step content and the relevant source material in your language.
-- Try to avoid translations that strongly hint at your regional variant of the language.
+- Try to avoid translations that could be confusing in other variants of your language.
 - Once you're done with the translation, change the line that reads `translated: false` to `translated: true`.
 - Do not translate template variables (words that are in all caps and surrounded by curly braces — eg. `{ROUND}`). These change dynamically based on where they player is in the game and need to stay exactly like this.
-- Do not rename front-matter propety keys (the things that start at every line between the two `---` and that end with a colon — eg. `title:`, `section:`, etc..), but **do** translate their value (see example below if you're unsure).
+- Do not rename front-matter propety keys (the things that start at every line between the two `---` and that end with a colon — eg. `title:`, `section:`, etc..), but **do** translate their value (the stuff _after_ the colon, see example below).
 - Do not rename file names.
 
 ### Example
@@ -64,7 +66,7 @@ Note that the front-matter property keys (eg. `section`, `title`, `ref`), as wel
 
 Everything else has been translated, yay.
 
-Now just save, propose the change, and create a pull request (PR). If you're using GitHub, just keep clicking the big green buttons until they stop appearing! (But feel free to include any questions/comments in the PR notes if necessary.)
+Now just save, propose the change, and create a pull request (PR). If you're editing on GitHub, just keep clicking the big green buttons until they stop appearing! (But feel free to include any questions/comments in the PR notes if necessary.)
 
 ## Progress
 
