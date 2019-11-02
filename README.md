@@ -2,6 +2,10 @@
 
 This repo contains content translations for the [Warcry Unofficial Battle Tracker](https://tracker.warcryunofficial.com).
 
+Several people have asked for and/or offered help with translating the app into their language — now is your chance!
+
+It is not necessary to translate everything. I am really hoping we can get this thing together as a community so — even one translated card helps. Don't feel like you need to take on a huge task!
+
 ## Contributing
 
 If you're comfortable with (or willing to learn) the [GitHub forking workflow](https://guides.github.com/activities/forking/), simply make all your desired changes as outlined below and then open a PR.
@@ -60,9 +64,9 @@ Now just save, propose the change, and create a pull request (PR). If you're usi
 
 ## Progress
 
-I recommend starting with steps for battles that people use the most: Campaign Battle, Open Battle, Pitched Battle and Exhibition Battle. The good news is that these share many steps. The below is a complete list of steps that these four battle types are composed of. Each cell links to the correct piece of content here on GitHub, so you can easily just click and start editing.
+I recommend starting with steps for battles that people use the most: Campaign Battle, Open Battle, Pitched Battle and Exhibition Battle. The good news is that these share many steps. The below is a complete list of steps that these four battle types are composed of. Each cell links to the correct piece of content here on GitHub, so you can just click and start editing.
 
-The steps below are presented in the order in which they appear in the app (taking into account that it's multiple battles in one). It should be fairly easy to follow along with the app. Links to each battle types: [Campaign Battle](https://tracker.warcryunofficial.com/campaign-battle), [Open Battle](https://tracker.warcryunofficial.com/open-battle), [Pitched Battle](https://tracker.warcryunofficial.com/pitched-battle) and [Exhibition Battle](https://tracker.warcryunofficial.com/exhibition-battle).
+The steps below are presented in the order in which they appear in the app (taking into account that it's multiple battles in one). It should be fairly easy to follow along with the app. Here are links for each of the four battle types for your convenience: [Campaign Battle](https://tracker.warcryunofficial.com/campaign-battle), [Open Battle](https://tracker.warcryunofficial.com/open-battle), [Pitched Battle](https://tracker.warcryunofficial.com/pitched-battle), and [Exhibition Battle](https://tracker.warcryunofficial.com/exhibition-battle).
 
 ### Campaign Battle
 
@@ -97,6 +101,8 @@ The steps below are presented in the order in which they appear in the app (taki
 | thanks                        | [:grey_exclamation: Not Translated](./content/es/thanks.md)                        | [:grey_exclamation: Not Translated](./content/fr/thanks.md)                        |
 
 ## Credits
+
+**All contributors will be properly credited in the app!**
 
 ### English
 
