@@ -10,7 +10,7 @@ It is not necessary to translate everything at once. I am really hoping we can g
 
 ## Contributing
 
-If you're comfortable with (or willing to learn) the [GitHub forking workflow](https://guides.github.com/activities/forking/), simply make all your desired changes as outlined below and then open a PR.
+If you're comfortable with (or willing to learn) the [GitHub forking workflow](https://guides.github.com/activities/forking/), make all your translations locally using the guidelines outlined in the section "Translating" below, and then open a PR.
 
 Otherwise, you can use GitHub's edit feature to translate files one by one. [A guide is available here](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository).
 
