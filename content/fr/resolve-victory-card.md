@@ -1,8 +1,8 @@
 ---
-section: Set Up
-title: Resolve Victory Card
-ref: Victory Card (Core Book, p.37)
-translated: false
+section: Mise en place
+title: Résoudre la carte de victoire
+ref: Carte de victoire (Livre de base, p.37)
+translated: true
 ---
 
-Players follow the instructions on the victory card as necessary (eg. place objectives or treasure, determine who is attacker or defender).
+Les joueurs suivent les instructions sur la carte de victoire. (Par  exemple, placer des objectifs, un trésor ou déterminer qui est l'attaquant ou le défenseur.)

@@ -1,8 +1,8 @@
 ---
-section: Set Up
-title: Roll for priority
-ref: The Priority Roll (Core Book, p.36)
-translated: false
+section: Mise en place
+title: Jet de priorité
+ref: Le jet de priorité (Livre de base, p.36)
+translated: true
 ---
 
-Players roll off using a D6. The winner has the priority.
+Chaque joueur lance un D6. Le plus haut résultat remporte la priorité.

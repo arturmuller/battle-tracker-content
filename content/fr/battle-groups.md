@@ -1,10 +1,10 @@
 ---
-section: Set Up
-title: Divide Battle Groups
-ref: Battle Groups (Core Book, p.36)
-translated: false
+section: Mise en place
+title: Diviser les groupes de combat
+ref: Groupes de combat (Livre de base, p.36)
+translated: true
 ---
 
-Starting with the player that lost the priority roll, players divide their warband into 3 groups: Dagger, Shield, and Hammer.
+En commençant par le joueur qui a perdu le jet de priorité, les joueurs divisent leur bande en 3 groupes: la Dague, le Bouclier et le Marteau.
 
-At least third of the fighters must be in the Shield group, and each group must have at least one fighter and no more than half the total number of fighters.
+Au moins un tiers des combattants doivent être dans le Bouclier. Chaque groupe doit compter au moins un combattant, mais pas plus de la moitié du total des combattants de la bande.

@@ -1,8 +1,8 @@
 ---
-section: Set Up
-title: Deal Out Battleplan Cards
-ref: The Battleplan (Core Book, p.36)
-translated: false
+section: Mise en place
+title: Générer le plan de bataille.
+ref: Le plan de bataille (Livre de base, p.36)
+translated: true
 ---
 
-The player who won the priority roll deals out the terrain, deployment, victory, and twist cards so that they are all visible to both players.
+Le joueur qui a remporté la priorité tire une carte des piles de terrain, déploiement, victoire et péripétie, puis les place face visible.
