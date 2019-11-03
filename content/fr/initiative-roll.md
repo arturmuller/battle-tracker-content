@@ -1,12 +1,12 @@
 ---
-section: Battle Round {ROUND} / Hero Phase
-title: Roll for initiative
-ref: Hero Phase (Core Book, p.38)
-translated: false
+section: Round de bataille {ROUND} / Phase des héros
+title: Déterminer l'initiative
+ref: Phase des héros (Livre de base, p.38)
+translated: true
 ---
 
-Each player rolls six D6 and separates the result into singles, doubles, triples, and quads.
+Chaque joueur lance six D6 et sépare les résultats en simples, doubles, triples et quadruples.
 
-The player with the highest number of singles has the initiative. Players roll off any ties.
+Le joueur ayant le plus de simples remporte l'initiative.  En cas d'égalité, les joueurs tirent au dé.
 
-Doubles, triples, and quads count as ability dice.
+Les doubles, triples et quadruples comptent comme des dés d'aptitudes.

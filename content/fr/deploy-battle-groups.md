@@ -1,12 +1,12 @@
 ---
-section: Set Up
-title: Deploy Battle Groups
-ref: Deployment Card (Core Book, p.37)
-translated: false
+section: Mise en place
+title: Déployer les groupes de combat
+ref: Carte de déploiement (Livre de base, p.37)
+translated: true
 ---
 
-The player who won the priority roll chooses their deployment color.
+Le joueur qui a remporté la priorité choisit sa couleur de déploiement.
 
-Then, starting with the player that won the priority roll, players take turns deploying battle groups in the following order: Dagger, Shield, Hammer.
+En commençant par le joueur ayant la priorité, les joueurs déploient à tour de rôle les groupes de combat dans l’ordre suivant: Dague, Bouclier, Marteau.
 
-Battle groups that are in reserve (marked RND2 or RND3) should be skipped.
+Les groupes de combat en réserve (marqués RND2 ou RND3) doivent être ignorés.
