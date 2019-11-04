@@ -1,10 +1,10 @@
 ---
-section: Battle Round {ROUND} / Combat Phase
-title: Activate Fighters
-ref: Combat Phase (Core Book, pp.39–45), and Activating Monsters (Monsters & Mercenaries, p.44)
-translated: false
+section: Round de Bataille {ROUND} / Phase de Combat
+title: Activer les Combattants
+ref: Phase de Combat (Livre de Base, pp.38–45), et Activer les Monstres (Monstres & Mercenaires, p.44)
+translated: true
 ---
 
-Players take turns in activating fighters until all fighters have been activated. The player who has the initiative decides who goes first.
+Les joueurs jouent leurs tours en activant les combattants jusqu'à qu'ils l'aient tous été. Le joueur qui a l'initiative décide qui débute.
 
-An activated fighter can perform actions (move, attack, disengage, or wait), and they can use an ability before or after every action. Normal fighter can perform two actions, but a waiting fighter or a monster can only perform one.
+Un combattant activé peut effectuer des actions (mouvement, attaque, désengagement ou attente), et il peut utiliser un capacité avant ou après chaque action. Les combattants peuvent normalement effectuer deux actions, mais un combattant en attente ou un monstre peut en effectuer qu'un seul.
