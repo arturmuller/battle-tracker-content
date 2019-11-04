@@ -1,8 +1,8 @@
 ---
-section: Aftermath
-title: Earn and Spend Glory Points
-ref: Earn and Spend Glory Points (Core Book, p.66)
-translated: false
+section: Séquence de Fin
+title: Gagner et dépenser des Points de Gloire
+ref: Gagner et dépenser des Points de Gloire (Livre de Base, p.66)
+translated: true
 ---
 
-Both players gain glory points based on the glory points table on page 66 of the Core Book.
+Les joueurs gagnent des points de gloire basé sur la table des points de goire de la page 66 du livre de base.
