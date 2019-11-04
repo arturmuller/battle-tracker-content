@@ -109,6 +109,7 @@ The steps below are presented in the order in which they appear in the app (taki
 ### English
 
 - [@artmllr](https://www.reddit.com/user/artmllr)
+- [@bmillemathias](https://github.com/bmillemathias)
 
 ### Spanish
 
@@ -117,6 +118,7 @@ The steps below are presented in the order in which they appear in the app (taki
 ### French
 
 - [@mabenoi](https://github.com/mabenoi)
+- [@bmillemathias](https://github.com/bmillemathias)
 
 ### German
 
