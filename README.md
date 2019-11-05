@@ -14,7 +14,9 @@ If you're comfortable with (or willing to learn) the [GitHub forking workflow](h
 
 Otherwise, you can use GitHub's edit feature to translate files one by one. [A guide is available here](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository).
 
-:warning: Before you jump into translations, **read the "Translating" section below** to avoid any unnecessary confusion.
+Make sure that any changes you'll be working on are on top of the **latest version** of the `master` branch. This is the best way to prevent accidentally working on something someone else has already finished.
+
+:warning: Before you jump into translations, please **read the "Translating" section below** to avoid any unnecessary confusion.
 
 ## Translating
 
@@ -23,6 +25,7 @@ Whichever way you choose to go about contributing, making the translations is ea
 Couple of pointers:
 
 - Use the terminology as it is used in the official materials.
+- Use the standard grammar rules of your language (eg. in English, most words in titles are capitalised, whereas in Spanish, usually only the first word is).
 - Use an [imperative](https://en.wikipedia.org/wiki/Imperative_mood) in the card titles (eg. "Deploy Reserves"). The idea is that people who are already a bit familiar with the game can just read the titles as a kind of todo list and they'll know what's up.
 - Use passive voice in the card body (eg. "Players deploy any battle groups marked..."). Given that these are rule explanations, it is beneficial to follow this form so that readers are clear who is the subject of each instruction.
 - Double check that page references match between the step content and the relevant source material in your language.
@@ -74,7 +77,7 @@ I recommend starting with steps for battles that people use the most: Campaign B
 
 The steps below are presented in the order in which they appear in the app (taking into account that it's multiple battle types here...). It should be fairly easy to follow along with the app. Here are links for each of the four battle types for your convenience: [Campaign Battle](https://tracker.warcryunofficial.com/campaign-battle), [Open Battle](https://tracker.warcryunofficial.com/open-battle), [Pitched Battle](https://tracker.warcryunofficial.com/pitched-battle), and [Exhibition Battle](https://tracker.warcryunofficial.com/exhibition-battle).
 
-| Step                          | Spanish                                                                            | French                                                                             | German                                                                             |
+| Step                          | Spanish                                                                            | French (~30% done)                                                                 | German                                                                             |
 | ----------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | muster-warbands-for-narrative | [:grey_exclamation: Not Translated](./content/es/muster-warbands-for-narrative.md) | [:grey_exclamation: Not Translated](./content/fr/muster-warbands-for-narrative.md) | [:grey_exclamation: Not Translated](./content/de/muster-warbands-for-narrative.md) |
 | muster-warbands-for-matched   | [:grey_exclamation: Not Translated](./content/es/muster-warbands-for-matched.md)   | [:grey_exclamation: Not Translated](./content/fr/muster-warbands-for-matched.md)   | [:grey_exclamation: Not Translated](./content/de/muster-warbands-for-matched.md)   |
