@@ -1,8 +1,8 @@
 ---
-section: Set Up
-title: Determine Battleplan
-ref: The Battleplan (Core Book, p.36) and Setting up a Pitched Battle (Core Book, p.73)
+section: Mise en Place
+title: Déterminer le Plan de Bataille
+ref: Le Plan de Bataille (Livre de Base, p.36) et Mise en place d'une bataille Rangée (Livre de Base, p.73)
 translated: false
 ---
 
-Players roll off and the winner chooses whether to use battleplan table A or B (Core Book, pp.74–77). Then, the player proceeds to roll a D6 to randomly select a battleplan from that table.
+Les joueurs lancent les dès et le gagnant choisit le tableau de plans de bataille A ou B (Livre de Base, p.74-77). Puis, le joueur procède à un lancer de D6 pour choisir aléatoirement dans ce tableau.
