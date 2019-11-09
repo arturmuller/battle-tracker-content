@@ -1,8 +1,8 @@
 ---
-section: The End
-title: Thanks!
+section: Ende 
+title: Danke! 
 ref: "@artmllr"
-translated: false
+translated: true
 ---
 
-Thanks for using the Battle Tracker! If you found it useful, make sure to tell your friends about it!
+Danke, dass ihr den Battle Tracker nutzt! Falls er euch gefallen hat, empfehlt ihn bitte weiter! 
