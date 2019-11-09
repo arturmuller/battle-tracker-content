@@ -116,13 +116,14 @@ The steps below are presented in the order in which they appear in the app (taki
 
 ### Spanish
 
-- [@bararito](https://github.com/Bararito)
+- [@Bararito](https://github.com/Bararito)
 
 ### French
 
 - [@mabenoi](https://github.com/mabenoi)
 - [@bmillemathias](https://github.com/bmillemathias)
+- [@Downford](https://github.com/Downford)
 
 ### German
 
-_(No one yet!)_
+- [@Farmercoho](https://github.com/Farmercoho)
