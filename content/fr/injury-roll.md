@@ -2,7 +2,7 @@
 section: Séquence de Fin
 title: Effectuer les jets de trauma
 ref: Effectuer les jets de trauma (Livre de Base, p.66)
-translated: false
+translated: true
 ---
 
 Tous les joueurs lancent deux dès pour chaque combattant mis hors de combat durant cette bataille.
