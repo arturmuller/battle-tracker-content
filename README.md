@@ -126,4 +126,4 @@ The steps below are presented in the order in which they appear in the app (taki
 
 ### German
 
-- [@Farmercoho](https://github.com/Farmercoho)
+- HooTie
