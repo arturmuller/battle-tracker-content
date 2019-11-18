@@ -1,7 +1,7 @@
 ---
-section: Set Up
-title: Roll for priority
-ref: The Priority Roll (Core Book, p.36)
+section: Preparación
+title: Tirar por prioridad
+ref: Tirada de prioridad (Libro básico, p.36)
 translated: false
 ---
 
